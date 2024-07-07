@@ -6,7 +6,14 @@
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Sou calvo 🤣. Bincadeira, de tanto estudar meus cabelos estão caindo, então se chegou até aqui me de a oportunidade de uma conversa atraves dos contatos acima. E se estou me esforçando tanto para aprender e me manter atualizado, imagine o esforço que posso fazer pela empresa.
 
+
+Apresento a voces meu primeiro projeto de BI, usando Power BI em uma analise discritiva finaceira com os dados de amostras disponivilizados pelo propio Power BI.
+
+[Analise Financeira.pdf](https://github.com/user-attachments/files/16117961/Analise.Financeira.pdf)
+
+
 <!---
-luanCae/luanCae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+luanCae/luanCae is a ✨ s
+pecial ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
