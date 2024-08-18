@@ -7,9 +7,10 @@
 - ⚡ Fun fact: Sou calvo 🤣. Bincadeira, de tanto estudar meus cabelos estão caindo, então se chegou até aqui me de a oportunidade de uma conversa atraves dos contatos acima. E se estou me esforçando tanto para aprender e me manter atualizado, imagine o esforço que posso fazer pela empresa.
 
 
-Apresento a vocês meu primeiro projeto de BI, usando Power BI em uma analise discritiva finaceira com os dados de amostras disponivilizados pelo propio Power BI.
+Apresento um os meus projetos em Power BI.
 
-[Analise Financeira.pdf](https://github.com/user-attachments/files/16117961/Analise.Financeira.pdf)
+(Analise Financeira)[file:///C:/Users/luan.caetano/AppData/Local/Temp/Power%20BI%20Desktop/print-job-c900082a-7a8c-47c4-a7eb-a60cccf1edd7/Reporte%20Financeiro.pdf]
+
 
 
 <!---
