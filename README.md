@@ -9,7 +9,7 @@
 
 Apresento um os meus projetos em Power BI.
 
-[Analise Financeira.pdf](file:///C:/Users/luan.caetano/Downloads/Reporte%20Financeiro.pdf)
+[Analise Financeira](https://app.powerbi.com/groups/me/reports/eed749b3-fc1d-41e7-b265-ebd559529aab/ReportSection?experience=power-bi))
 
 
 
