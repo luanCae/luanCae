@@ -9,7 +9,7 @@
 
 Apresento um os meus projetos em Power BI.
 
-[Analise Financeira](file:///C:/Users/luan.caetano/AppData/Local/Temp/Power%20BI%20Desktop/print-job-c900082a-7a8c-47c4-a7eb-a60cccf1edd7/Reporte%20Financeiro.pdf)
+[Analise Financeira.pdf](file:///C:/Users/luan.caetano/AppData/Local/Temp/Power%20BI%20Desktop/print-job-c900082a-7a8c-47c4-a7eb-a60cccf1edd7/Reporte%20Financeiro.pdf)
 
 
 
